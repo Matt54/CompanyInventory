@@ -1,0 +1,70 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 26, 2019, 1:49:05 PM
+    Author     : matthewp
+*/
+
+.button {
+  -fx-background-color: red;
+  -fx-text-fill: white;
+  -fx-background-radius: 16px;
+  -fx-padding: 10px;
+  -fx-border-insets: 5px;
+  -fx-background-insets: 5px;
+}
+
+.text-field {
+  -fx-padding: 10px;
+  -fx-border-insets: 5px;
+  -fx-background-insets: 5px;
+}
+ 
+.label
+{
+    -fx-font-family: "arial";
+    -fx-font-size: 10px;
+    -fx-font-style: normal;
+    -fx-font-weight: bolder;
+    -fx-padding: 10px;
+    -fx-border-insets: 5px;
+    -fx-background-insets: 5px;
+}
+
+.radio-button{
+    -fx-padding: 10px;
+    -fx-border-insets: 5px;
+    -fx-background-insets: 5px;
+}
+
+#secondary-label{
+    -fx-font-size: 12px;
+}
+
+#exit-button{
+  -fx-font-size: 20px;
+  -fx-background-color: black;
+  -fx-text-fill: white;
+  -fx-background-radius: 16px;
+  -fx-padding: 20px;
+  -fx-border-insets: 10px;
+  -fx-background-insets: 10px;
+}
+
+#main-screen-label {
+    -fx-font-size: 24px;
+    -fx-padding: 20px;
+    -fx-border-insets: 10px;
+    -fx-background-insets: 10px;
+}
+
+#inventory-view {
+    -fx-padding: 20px;
+    -fx-border-insets: 10px;
+    -fx-background-insets: 10px;
+    -fx-border-color: red;
+    -fx-border-radius: 10px;
+}
