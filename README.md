@@ -4,7 +4,7 @@
   <ul>
     <li>User interface design (JavaFX)</li>
     <li>Exception handling</li>
-    <li>OOP design principles (e.g. abstraction, inheritance, and encapsulation</li>
+    <li>OOP design principles (e.g. abstraction, inheritance, and encapsulation)</li>
   </ul> 
 </p>
 <p align="center">
