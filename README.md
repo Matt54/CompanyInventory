@@ -21,6 +21,6 @@
 <p align="center">
   <h2>Main User Interface:</h2>
   <kbd>
-    <img src="GUI.png" width="800">
+    <img src="GUI.png" width="1000">
   </kbd>
 </p>
